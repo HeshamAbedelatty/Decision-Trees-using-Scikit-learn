@@ -12,4 +12,6 @@ Consider training set sizes in the range of 30% to 70% (increments of 10%).
 Start with a training set size of 30% and increase it by 10% until you reach 70%. For each training set size: 
 ### • Run the experiment with five different random seeds. 
 ### • Calculate the mean, maximum, and minimum accuracy at each training set size. 
-### • Measure the mean, maximum, and minimum tree size. • Store the statistics in a report. • Create two plots: one showing accuracy against training set size and another showing the number of nodes in the final tree against training set size.
+### • Measure the mean, maximum, and minimum tree size. 
+### • Store the statistics in a report. 
+### • Create two plots: one showing accuracy against training set size and another showing the number of nodes in the final tree against training set size.
